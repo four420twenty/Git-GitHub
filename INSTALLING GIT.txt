@@ -1,0 +1,4 @@
+Linux (Debian)     sudo apt-get install git
+Linux (Fedora)     sudo yum install git
+Mac                https://git-scm.com/downloads/mac
+Windows            https://git-scm.com/downloads/win
