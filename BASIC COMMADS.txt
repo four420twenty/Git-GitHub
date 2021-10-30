@@ -8,3 +8,4 @@ git clone                    Clone Repository Into A New Directory
 git checkout -b newBranch    Switched And Create A New Branch 'newBranch'
 git branch newBranch         Create A New Branch
 git checkout newBranch       Switched To A 'newBranch'
+git merge main               Basic Merge
